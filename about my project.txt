@@ -1,0 +1,21 @@
+# 🔒 Phishing URL Detector
+
+A machine learning web application that detects phishing URLs in real-time.
+
+## 🚀 Features
+- Real-time URL analysis
+- 15 feature extraction points
+- Machine Learning (Random Forest)
+- Beautiful UI with Bootstrap
+- Check history stored in browser
+
+## 🛠️ Technologies
+- Python 3.x
+- Flask
+- scikit-learn
+- Bootstrap 5
+
+## 📦 Installation
+```bash
+pip install flask scikit-learn numpy
+python app.py
